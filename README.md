@@ -2,4 +2,4 @@
 
 
 
-it is a sample program to say hello worldss.....
+it is a sample program to say hello world.
